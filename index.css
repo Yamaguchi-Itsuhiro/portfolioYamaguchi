@@ -1,0 +1,46 @@
+body{
+    width: 100%;
+    min-width: 320px;
+    background-color: #fcddae;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.main{
+    font-weight: bold;
+    padding: 20px;
+}
+
+.mainMenu{
+    background-color: #fef7eb;
+    padding: 30px;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.linkOutsid{
+    display: flex;
+    gap: 20px;
+}
+
+.gridContain img {
+    width: 100px;
+    height: 100px;
+}
+
+main{
+    display: flex;
+    height: auto;
+}
+
+.text{
+    background-color: #fef7eb;
+    padding: 20px;
+    margin-left: 10px;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+footer{
+    align-items: flex-end;
+    background-color: #bfb9b0;
+}

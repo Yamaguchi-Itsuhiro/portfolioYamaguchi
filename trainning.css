@@ -1,0 +1,41 @@
+.topText{
+    background-color: #98a0b4;
+}
+
+.flex{
+    background-color: #98a0b4;
+    display: flex;
+}
+
+.mainMenu{
+    margin-left: 10px;
+    background-color: #ccd0da;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.content{
+    margin-left: 10px;
+    background-color: #ccd0da;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.footer{
+    align-items: flex-end;
+    background-color: #727887;
+    padding: 20px;
+}
+
+.linkOutsid{
+    display: flex;
+    gap: 20px;
+}
+
+.gridContain img {
+    width: 100px;
+    height: 100px;
+}
+
