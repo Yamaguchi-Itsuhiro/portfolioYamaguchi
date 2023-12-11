@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Aoboshi+One&family=Noto+Serif+JP:wght@900&family=Playfair+Display:wght@600&family=Rubik&display=swap');
+
+body{
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    font-family: 'Noto Serif JP', serif;
+    background-color: #FDF7E4;
+}
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.text{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.B{
+    text-align: center;
+    gap: 40px;
+}
