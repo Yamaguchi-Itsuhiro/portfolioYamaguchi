@@ -1,41 +1,8 @@
-.topText{
-    background-color: #98a0b4;
-}
+@import url('https://fonts.googleapis.com/css2?family=Aoboshi+One&family=Noto+Serif+JP:wght@900&family=Playfair+Display:wght@600&family=Rubik&display=swap');
 
-.flex{
-    background-color: #98a0b4;
-    display: flex;
+body{
+    background-color: #F3EEEA;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    font-family: 'Noto Serif JP', serif;
 }
-
-.mainMenu{
-    margin-left: 10px;
-    background-color: #ccd0da;
-    padding: 20px;
-    display: inline-block;
-    border-radius: 20px;
-}
-
-.content{
-    margin-left: 10px;
-    background-color: #ccd0da;
-    padding: 20px;
-    display: inline-block;
-    border-radius: 20px;
-}
-
-.footer{
-    align-items: flex-end;
-    background-color: #727887;
-    padding: 20px;
-}
-
-.linkOutsid{
-    display: flex;
-    gap: 20px;
-}
-
-.gridContain img {
-    width: 100px;
-    height: 100px;
-}
-
